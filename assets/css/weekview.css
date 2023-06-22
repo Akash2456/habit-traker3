@@ -48,6 +48,7 @@ body {
   margin-bottom: 2%;
 }
 #habits-div #user-habits h4 {
+  color: #37737E;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 25px;
 }
