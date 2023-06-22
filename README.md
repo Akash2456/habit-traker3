@@ -1,6 +1,7 @@
 This project is a habit tracker used to track the habits of of the User on daily and weekly basis.
 
 Installation
+
 To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
