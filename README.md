@@ -1,5 +1,21 @@
 This project is a habit tracker used to track the habits of of the User on daily and weekly basis.
 
+Installation
+To run this application on your local machine, please follow these steps:
+
+Clone this repository using the following command:
+
+$ git clone https://github.com/agentgrey/TodoList.git
+Install the required dependencies using the following command:
+
+$ npm install 
+Start the application using the following command:
+
+$ npm start 
+Open the application in your web browser by visiting the following URL:
+
+$ http://localhost:9000 
+
 1.User can select the already existing habits to track or can add a custom habit by typing the the textbox area.
 
 2.User has a feature to mark the status of the habit as Done, Not Done or Not Started (by default Not started is selected).
