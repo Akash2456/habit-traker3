@@ -4,18 +4,18 @@ Installation
 To run this application on your local machine, please follow these steps:
 
 Clone this repository using the following command:
+https://github.com/ayush2342/Habit-Tracker.git
 
-$ git clone https://github.com/agentgrey/TodoList.git
 Install the required dependencies using the following command:
-
 $ npm install 
+
 Start the application using the following command:
+$ npm run start 
 
-$ npm start 
 Open the application in your web browser by visiting the following URL:
-
 $ http://localhost:9000 
 
+Usage:
 1.User can select the already existing habits to track or can add a custom habit by typing the the textbox area.
 
 2.User has a feature to mark the status of the habit as Done, Not Done or Not Started (by default Not started is selected).
