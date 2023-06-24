@@ -1,6 +1,11 @@
 const Habits = require('../../models/habits');
 const Status = require('../../models/status');
 
+const monthNames = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+  ];
+  
 (async () => {
   try {
     let currentDate = new Date();
