@@ -14,7 +14,7 @@
     "Habit",
     "tracker"
   ],
-  "author": "Ayush",
+  "author": "Akash",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.9",
